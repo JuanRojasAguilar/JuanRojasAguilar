@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Juan Rojas.</h1>
+<h3 align="center">A nerdy software developer. 🧐</h3>
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!--
 **JuanRojasAguilar/JuanRojasAguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
