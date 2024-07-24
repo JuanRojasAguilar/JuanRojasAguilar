@@ -8,10 +8,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a suite of study programs
+- 🔭 I’m currently working on a suite of study programs and the digital transition of companies.
 - 🌱 I’m currently learning C/C++
 - 👯 I’m looking to collaborate on the Nvim comunity
-- 💬 Ask me about how to study code.
+- 💬 Ask me about how does a HTTP server works.
 - 📫 How to reach me: https://www.linkedin.com/in/juandrojasa/
 - ⚡ Fun fact: I play music and used to have a covers youtube channel
 
