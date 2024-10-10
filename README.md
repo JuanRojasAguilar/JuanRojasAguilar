@@ -31,14 +31,19 @@
 
 </div>
 
-<h3 align="left">Tools:</h3>
+<h3 align="center">My Toolbox</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,postgres,java,spring,py,js,nextjs,react,lit,vite,neovim,linux,rust&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,postgres,java,spring,py,js,nextjs,react,lit,vite,neovim,linux,rust,c,cs&perline=8" />
   </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanrojasaguilar&column=5&theme=gitdimmed&rank=-C,-B&margin-w=12&margin-h=12" alt="juanrojasaguilar" /></a> </p>
+
+<h3 align="center">Achivements</h3>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanrojasaguilar&column=5&theme=gitdimmed&rank=-C,-B&margin-w=12&margin-h=12" alt="juanrojasaguilar" /></a> 
+</p>
 
 ![](https://komarev.com/ghpvc/?username=juanrojasaguilar&color=blueviolet&style=flat&label=Visitors)
