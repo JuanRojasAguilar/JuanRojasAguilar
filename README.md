@@ -23,7 +23,7 @@
 
 <td width="50%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanRojasAguilar&theme=nord&hide_border=false&no-bg=true&no-frame=true&langs_count=8&layout=donut"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanRojasAguilar&layout=donut-vertical&theme=nord&hide_border=false&no-bg=true&no-frame=true&langs_count=8"/>
 
 </td>
 </tr>
