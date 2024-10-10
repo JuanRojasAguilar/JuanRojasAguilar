@@ -1,19 +1,37 @@
-<h1 align="center">Hi there! I'm Juan Rojas.</h1>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Juan Rojas.</h1>
 <h3 align="center">A nerdy software developer. 🧐</h3>
 
 ![](https://komarev.com/ghpvc/?username=juanrojasaguilar&color=blueviolet&style=flat&label=Visitors)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanrojasaguilar" alt="juanrojasaguilar" /></a> </p>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a suite of study programs and the digital transition of companies.
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Rust and Java
 - 👯 I’m looking to collaborate on the Nvim comunity
-- 💬 Ask me about how does a HTTP server works.
+- 💬 Ask me about how does an HTTP server works.
 - 📫 How to reach me: https://www.linkedin.com/in/juandrojasa/
 - ⚡ Fun fact: I play music and used to have a covers youtube channel
+
+<div  align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JuanRojasAguilar&theme=dark&show_icons=true&count_private=true" />
+<br></br>
+<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanRojasAguilar&theme=dark&hide_border=false" />
+</td>
+
+<td width="50%" align="center">
+
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanRojasAguilar&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <h3 align="left">Tools:</h3>
 
